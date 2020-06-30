@@ -1,0 +1,26 @@
+{
+  "name": "banking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solServer.js",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinebud-drink/banking.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinebud-drink/banking/issues"
+  },
+  "homepage": "https://github.com/pinebud-drink/banking#readme"
+}

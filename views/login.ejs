@@ -181,7 +181,7 @@
                     userPassword : userPassword,
                 },
 				success:function(data){
-					if(data == '사용자가 없습니다.' || data == '패스워드가 다릅니다'){
+					if(data == '등록되지 않은 아이디 혹은 패스워드 오류 입니다.'){
 						alert(data);
 					}
 					else {
